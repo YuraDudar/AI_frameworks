@@ -44,3 +44,9 @@
 1. Клонируйте репозиторий.
 2. Установите зависимости: `pip install -r requirements.txt`
 3. Запустите ноутбуки в Jupyter Lab или Google Colab.
+
+## 👀 Мемы
+| [![image.png](https://i.postimg.cc/B60Yhwbk/image.png)](https://postimg.cc/Jyp50xb5) | [![image.png](https://i.postimg.cc/BZNYgp0z/image.png)](https://postimg.cc/BtLBZxt5) | [![image.png](https://i.postimg.cc/VNyD6Hqj/image.png)](https://postimg.cc/xXRKp5FC) | [![image.png](https://i.postimg.cc/C17NchWD/image.png)](https://postimg.cc/2bqh6Dj8) |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
+
+
